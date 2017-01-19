@@ -17,9 +17,9 @@ Mapache supports the following web [browsers](http://caniuse.com/#search=flexbox
 ## Featured
 - Responsive layout
 - Blog navigation
-- Page 404 (Multiple faces emoticons)
+- Page 404 (Multiple emoticons)
 - Page subscribe
-- Pagination Infinite Scroll
+- Pagination or Infinite Scroll
 - Cover images for blog, tag and author
 - links to followers in social media
 - Related Articles (6 articles)
