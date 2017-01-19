@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
+
 html {
-    font-family: sans-serif;
+    font-family: 'Anonymous Pro', sans-serif;
+    background: #F2F2F2;
     line-height: 1.15;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
@@ -225,6 +229,13 @@ textarea {
 @font-face {
     font-family: mapache;
     src: url(../fonts/mapache.ttf?8baq25) format("truetype"), url(../fonts/mapache.woff?8baq25) format("woff"), url(../fonts/mapache.svg?8baq25#mapache) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Anonymous Pro;
+    src: url(../fonts/Anonymous Pro.ttf?8baq25) format("truetype"), url(../fonts/Anonymous Pro.woff?8baq25) format("woff"), url(../fonts/Anonymous Pro.svg?8baq25#mapache) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -773,7 +784,7 @@ a.external:after {
 
 body {
     color: #333;
-    font-family: Roboto, sans-serif;
+    font-family: 'Anonymous Pro', sans-serif;
     font-size: 1rem;
     line-height: 1.5;
     background: #F2F2F2
@@ -877,7 +888,7 @@ ol {
 code,
 kbd,
 samp {
-    font-family: Roboto Mono, monospace!important;
+    font-family: 'Anonymous Pro', monospace!important;
     font-size: .9375rem;
     color: #c7254e;
     background: #f7f7f7;
@@ -934,7 +945,7 @@ pre {
     border-radius: 4px;
     word-wrap: normal;
     margin: 2.5rem 0!important;
-    font-family: Roboto Mono, monospace!important;
+    font-family: 'Anonymous Pro', monospace!important;
     font-size: .9375rem;
     position: relative
 }
@@ -1262,7 +1273,7 @@ pre code {
 }
 
 .errorPage {
-    font-family: Roboto Mono, monospace;
+    font-family: 'Anonymous Pro', monospace;
     height: 100vh;
     position: relative;
     width: 100%
@@ -1600,7 +1611,7 @@ h4,
 h5,
 h6 {
     margin-bottom: .5rem;
-    font-family: Roboto, sans-serif;
+    font-family: 'Anonymous Pro', sans-serif;
     font-weight: 500;
     line-height: 1.1;
     color: inherit
@@ -2502,7 +2513,7 @@ input.search-field:focus {
     color: #039be5;
     cursor: pointer;
     display: inline-block;
-    font: 500 14px/20px Roboto, sans-serif;
+    font: 500 14px/20px 'Anonymous Pro', sans-serif;
     height: 36px;
     margin: 0;
     min-width: 36px;
@@ -3156,7 +3167,7 @@ input.search-field:focus {
 .subscribe h3 {
     margin: 0;
     margin-bottom: 8px;
-    font: 400 20px/32px Roboto, sans-serif
+    font: 400 20px/32px 'Anonymous Pro', sans-serif
 }
 
 .subscribe-title {

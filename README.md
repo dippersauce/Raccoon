@@ -1,11 +1,16 @@
-# Raccoon for [Ghost](https://github.com/tryghost/ghost/) by GodoFredo and Austin "dipper" Lasota
+# Mapache for [Ghost](https://github.com/tryghost/ghost/) by GodoFredo
+
 [![Ghost version](https://img.shields.io/badge/Ghost-0.11.x-brightgreen.svg?style=flat-square)](https://ghost.org/)
 [![Node version](https://img.shields.io/node/v/uno-zen.svg?style=flat-square)](https://nodejs.org/en/)
-> Minimalist Design for [Ghost](https://github.com/tryghost/ghost/).
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](http://bit.ly/DonateMapacheGhost)
 
-If you have any suggestions to improve the theme, tweet to [@GodoFredoNinja](http://bit.ly/tw-GodoFredoNinja) or send an email to dipper at dipper@artofexploitation.co.
+> Minimalist Material Design and Elegant theme for [Ghost](https://github.com/tryghost/ghost/).
 
-![](./documentation/raccoon-screenshot.png)
+### Free theme for Ghost
+
+Hello, I created this theme Ghost to see how it works. It is available for free so you can use on your site. It is strictly forbidden commercial use. If you have any suggestions to improve the theme,  you can send me tweet to [@GodoFredoNinja](http://bit.ly/tw-GodoFredoNinja)
+
+![](./documentation/mapache-screenshot.png)
 
 
 ## Demo
@@ -17,9 +22,9 @@ Mapache supports the following web [browsers](http://caniuse.com/#search=flexbox
 ## Featured
 - Responsive layout
 - Blog navigation
-- Page 404 (Multiple emoticons)
+- Page 404 (Multiple faces emoticons)
 - Page subscribe
-- Pagination or Infinite Scroll
+- Pagination Infinite Scroll
 - Cover images for blog, tag and author
 - links to followers in social media
 - Related Articles (6 articles)
@@ -251,3 +256,7 @@ If you want to have a image post format, you only have to add the tag `#image-po
 - [Jquery.ghostHunter](https://github.com/jamalneufeld/ghostHunter)
 - [Prismjs](http://prismjs.com/)
 - [sticky-kit](https://github.com/leafo/sticky-kit)
+
+## Copyright & License
+
+Copyright (c) 2016 @GodoFredoNinja - Released under the [MIT license](LICENSE).
