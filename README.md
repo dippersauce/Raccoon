@@ -4,7 +4,7 @@
 [![Node version](https://img.shields.io/node/v/uno-zen.svg?style=flat-square)](https://nodejs.org/en/)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](http://bit.ly/DonateMapacheGhost)
 
-> Minimalist Material Design and Elegant theme for [Ghost](https://github.com/tryghost/ghost/).
+> Minimalist theme inspired by the iOS HID and color pallete for [Ghost](https://github.com/tryghost/ghost/).
 
 ### Free theme for Ghost
 
