@@ -1,4 +1,4 @@
-# Mapache for [Ghost](https://github.com/tryghost/ghost/) by GodoFredo
+# Raccoon for [Ghost](https://github.com/tryghost/ghost/) by Dipper
 
 [![Ghost version](https://img.shields.io/badge/Ghost-0.11.x-brightgreen.svg?style=flat-square)](https://ghost.org/)
 [![Node version](https://img.shields.io/node/v/uno-zen.svg?style=flat-square)](https://nodejs.org/en/)
@@ -8,25 +8,25 @@
 
 ### Free theme for Ghost
 
-Hello, I created this theme Ghost to see how it works. It is available for free so you can use on your site. It is strictly forbidden commercial use. If you have any suggestions to improve the theme,  you can send me tweet to [@GodoFredoNinja](http://bit.ly/tw-GodoFredoNinja)
+Hello, I created this theme Ghost for use on my security blog. I've released it for free so you can use on your site. Raccoon was originally forked from Mapache by [@GodoFredoNinja](http://bit.ly/tw-GodoFredoNinja).
 
 ![](./documentation/mapache-screenshot.png)
 
 
 ## Demo
-You can see a demo in my [blog](http://bit.ly/GodoFredoNinja-blog).
+As my security blog is no longer maintained, a demo is not available.
 
-## Mapache Support for Web Browsers
-Mapache supports the following web [browsers](http://caniuse.com/#search=flexbox)
+## Web Browser Support
+Raccoon has a hard dependancy on FlexBox. FlexBox supports the following web [browsers](http://caniuse.com/#search=flexbox).
 
-## Featured
+## Features
 - Responsive layout
 - Blog navigation
-- Page 404 (Multiple faces emoticons)
-- Page subscribe
-- Pagination Infinite Scroll
+- Page 404 (Cutesy Emoticons)
+- Subscribe Page
+- Infinite Scroll Pagination
 - Cover images for blog, tag and author
-- links to followers in social media
+- Links to followers in social media
 - Related Articles (6 articles)
 - Video Post Format
 - Image post Format
@@ -39,14 +39,14 @@ Mapache supports the following web [browsers](http://caniuse.com/#search=flexbox
 - Buttons to share the article
 - Counter shared articles on Facebook
 - YouTube, Vimeo, kickstarter -> Video Responsive
-- Code syntax [Prismjs](http://prismjs.com/index.html) Supported all syntax.
+- Code syntax highlighting via [Prismjs](http://prismjs.com/index.html) Supports all major syntaxes.
 
 
-### Replace Favorite icon
-Create an image icon with these dimensions with the name icon.png `155px * 155px` in ` Copy your new favorite icon to ./assets/img/icon.png`
+### Replace Icons
+Create image icons with the appropriate dimensions and name. Place your new icons in `./assets/img/icon.png`
 
 
-## Mapache settings
+## Raccoon settings
 - Enable **all** checkboxes on the labs page in your Ghost admin panel.
 
 ![](./documentation/img-api.png)
@@ -57,7 +57,7 @@ Create an image icon with these dimensions with the name icon.png `155px * 155px
 Add the Social Links only for the services you want to appear in the header section of your website. Pay attention as enabling too many services will cause menu problems.
 
 ### Title
-This section will display the desired title name in the browser tab
+This section will display the desired title name in the browser tab.
 
 ### YouTube Subscribe Button
 This section enables the YouTube Post format. Add the Channel Name and Channel ID which can be found here [YouTube Advanced Settings](https://www.youtube.com/account_advanced)
@@ -119,10 +119,10 @@ This enables comments and comment counter
 
   ```html
   <style>
-    .mapache-disqus{
+    .raccoon-disqus{
       display: none !important;
     }
-    .mapache-facebook{
+    .raccoon-facebook{
       display: inline !important;
     }
   </style>
@@ -256,7 +256,9 @@ If you want to have a image post format, you only have to add the tag `#image-po
 - [Jquery.ghostHunter](https://github.com/jamalneufeld/ghostHunter)
 - [Prismjs](http://prismjs.com/)
 - [sticky-kit](https://github.com/leafo/sticky-kit)
+- [Original Concept](@GodoFredoNinja)
 
 ## Copyright & License
 
-Copyright (c) 2016 @GodoFredoNinja - Released under the [MIT license](LICENSE).
+Original Copyright (c) 2016 @GodoFredoNinja - Released under the [MIT license](LICENSE).
+Sub-Copyright (C) 2017 @dippersauce - Forked under the [MIT License](LICENSE).
