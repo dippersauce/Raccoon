@@ -8,7 +8,7 @@
 
 ### Free theme for Ghost
 
-Hello, I created this theme Ghost for use on my security blog. I've released it for free so you can use on your site. Raccoon was originally forked from Mapache by [@GodoFredoNinja](http://bit.ly/tw-GodoFredoNinja) as seen below. Raccoon looks and behaves substantially different.
+Hello, I created this theme Ghost for use on my security blog. I've released it for free so you can use on your site. Raccoon was originally forked from Mapache by [@GodoFredoNinja](http://bit.ly/tw-GodoFredoNinja) as seen below. Raccoon looks and behaves substantially different, but credit is due to the wonderful design I based it off of.
 
 ![](./documentation/mapache-screenshot.png)
 
